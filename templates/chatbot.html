@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MDCAT Practice Chatbot</title>
+    <style>
+        body {
+            background: url("/static/bg-image-task1.jpg") no-repeat center center fixed, linear-gradient(to bottom, #f0f0f0, #e0e0e0);
+            background-size: cover;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #333;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+        }
+        input[type="text"] {
+            width: 300px;
+            padding: 10px;
+            font-size: 16px;
+            margin-bottom: 10px;
+            border: 2px solid #ccc;
+            border-radius: 5px;
+        }
+        button[type="submit"] {
+            padding: 10px 20px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        button[type="submit"]:hover {
+            background-color: #555;
+        }
+        .response {
+            margin-top: 20px;
+            padding: 10px;
+            background: linear-gradient(to bottom, #fff, #f9f9f9);
+            border: 2px solid #ccc;
+            border-radius: 5px;
+            text-align: left;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <h1>MDCAT Practice Chatbot</h1>
+    <form method="POST">
+        <input type="text" name="user_input" placeholder="Type your question...">
+        <button type="submit">Ask</button>
+    </form>
+    <div class="response">
+        {{ response }}
+    </div>
+</body>
+</html>

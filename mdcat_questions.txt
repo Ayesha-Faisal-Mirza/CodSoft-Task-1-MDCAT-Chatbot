@@ -1,0 +1,298 @@
+Question: Experiments using the two mutant strains P and Q, reveal that strain P accumulates citrulline, but strain Q does not. Which of the following statements is most consistent with the data provided?  A. Strain Q has only one mutation.  B. Strain P has a mutation in argF only.  C. Strain P has mutations in argF, argG and argH.   D. Strain P has a mutation in argG only.
+Answer: B. Strain P has a mutation in argF only.
+
+Question:  Which of the following is not a function of the liver?   A. Carbohydrate storage  B. Detoxification   C. Blood filtration    D. Protein synthesis
+Answer:  C. Blood filtration
+
+Question: What is the main function of red blood cells?  A. Transport oxygen   B. Fight infection    C. Produce antibodies   D. Digest food
+Answer: A. Transport oxygen
+
+Question:  Which of the following is a characteristic of prokaryotic cells? A. Membrane-bound nucleus  B. Complex organelles   C. Single circular chromosome   D. Multiple nuclei
+Answer:   C. Single circular chromosome
+
+Question:  Which enzyme is responsible for breaking down carbohydrates in the mouth?  A. Amylase   B. Lipase   C. Protease   D. Pepsin
+Answer: A. Amylase
+
+Question: What is the process by which green plants make their own food using sunlight? A. Respiration  B. Fermentation  C. Photosynthesis    D. Digestion
+Answer:  C. Photosynthesis
+
+Question:  Which of the following elements is a noble gas?   A. Hydrogen   B. Oxygen     C. Neon     D. Carbon
+Answer:   C. Neon
+
+Question:  What is the chemical formula for sulfuric acid? A. H2SO4   B. HCl   C. NaOH   D. CO2
+Answer:   A. H2SO4
+
+Question:  Which type of chemical bond involves the sharing of electrons between atoms?  A. Ionic bond   B. Covalent bond   C. Metallic bond   D. Hydrogen bond
+Answer:   B. Covalent bond
+
+Question:  What is Avogadro's number?   A. 6.02 x 10^23    B. 3.14 x 10^8    C. 9.81 m/s^2     D. 1.00 x 10^-12
+Answer:  A. 6.02 x 10^23
+
+Question:  What is the pH value of a neutral solution?  A. 0   B. 7  C. 14    D. 1
+Answer:  B. 7
+
+Question:  What is the SI unit of electric charge?  A. Volt  B. Ampere  C. Coulomb   D. Watt
+Answer: C. Coulomb
+
+Question:  According to Newton's second law of motion, what is the relationship between force (F), mass (m), and acceleration (a)?   A. F = ma     B. F = m/a     C. F = m + a      D. F = m - a
+Answer:  A. F = ma
+
+Question:  What type of energy does a moving car possess?   A. Thermal energy    B. Kinetic energy    C. Potential energy     D. Electrical energy
+Answer:  B. Kinetic energy
+
+Question: Which of the following is not a unit of electric power? A. Watt     B. Joule     C. Kilowatt-hour     D. Megawatt
+Answer: B. Joule
+
+Question:  What is the speed of light in a vacuum?   A. 3 x 10^6 m/s      B. 3 x 10^8 m/s     C. 3 x 10^10 m/s    D. 3 x 10^12 m/s
+Answer:   B. 3 x 10^8 m/s
+
+Question:  Identify the synonym for "benevolent."  A. Malevolent   B. Kind-hearted   C. Miserable   D. Cruel  
+Answer:  B. Kind-hearted
+
+Question: Which sentence is grammatically correct?  A. She don't like ice cream.  B. He plays tennis every day.  C. They was going to the store.   D. I has finished my homework.
+Answer: B. He plays tennis every day.
+
+Question:  Choose the correct antonym for "expand."   A. Increase   B. Enlarge   C. Contract   D. Stretch
+Answer:  C. Contract
+
+Question: Select the correctly punctuated sentence:  A. The cat is black, and the dog is white.    B. The cat is black and the dog is white.     C. The cat is black; and the dog is white.    D. The cat is black; and, the dog is white.
+Answer:  a. The cat is black, and the dog is white.
+
+Question:  Which of the following is a compound sentence? A. He ran quickly. B. She sang beautifully.   C. I went to the store, and I bought some groceries.  D. The book is on the shelf.
+Answer: C. I went to the store, and I bought some groceries.
+
+Question: 3, 6, 9, 12, 15, ?
+Answer: 18
+
+Question: 2, 5, 10, 17, 26, ?
+Answer: 29
+
+Question: 1,3,7,?,21,31,43
+Answer: 13
+
+Question: 12,14, 34, 36,56, 58,78,?
+Answer: 80
+
+Question: 6,10,18,34,66,?
+Answer: 130
+
+Question: 1,3,3,6,7,9,?,12,21
+Answer: 13
+
+Question:  7,12,19,28,?
+Answer: 39
+
+Question: 0,7,15,24,34,?
+Answer: 45
+
+Question:  87,102,119,138,159,?
+Answer: 182
+
+Question:  2,14,32,56,86,?
+Answer: 122
+
+Question:  2,20,42,68,98,?
+Answer: 132
+
+Question:  9,11,17,35,89,?
+Answer: 147
+
+Question:  2,5,9,?,20,27
+Answer: 12
+
+Question:  4,6,12,14,28,30,?
+Answer: 34
+
+Question:  11,13,17,19,23,25,?
+Answer: 27
+
+Question:  63,37,15,5,?
+Answer: -1
+
+Question:  0,3,8,15,?
+Answer: 24
+
+Question:  0,6,24,60,120,210,?
+Answer: 312
+
+Question:  7,26,63,124,?
+Answer: 209
+
+Question:  5,10,17,26,37,50,?
+Answer: 65
+
+Question:  3,9,15,?
+Answer: 21
+
+Question:  1,5,14,30,55,91,?
+Answer: 140
+
+Question:  198,194,185,169,?
+Answer: 144
+
+Question:  2,5,13,28,?
+Answer: 52
+
+Question: Q If 'when' means 'x', 'you' means '-','come' means ' / ', and 'will' means `+', then what will be the value of "8 when 12 will 16 you 2 come 10"?
+Answer: 11
+
+Question: Q Find the next two terms in the sequence: A, C, F, J, ?, ?
+Answer: O, U
+
+Question: Q `ludo' is `carrom', what is cricket played with?
+Answer: Bat
+
+Question: Q In a certain code language, 24685 is written as 33776. How is 35791 written in that code?
+Answer: 4681
+
+Question: Q If AT = 20, BAT = 40, then CAT will be equal to?
+Answer: 30
+
+Question: Q If ZEBRA can be written as 2652181, how can COBRA be written?
+Answer: 52521
+
+Question: Q If in a certain language, REMOTE is coded as ROTEME, which word would be coded as PNIICC?
+Answer: Picnic
+
+Question: Q DIRECTIONS: In each of the following questions, there is a certain relationship between two given words on one side of : : and one word is given on another side of : : while another word is to be found from the given alternatives, having the same relation with this word as the words of the given pair bear. Choose the correct alternative.
+
+Question:  Food : Stomach : : Fuel : ?
+Answer: Engine
+
+Question:  Moon : Satellite : : Earth : ?
+Answer: Sun
+
+Question:  Laugh : Joy : Weep : ?
+Answer: Grief
+
+Question:  Cricket : Bat : : Hockey : ?
+Answer: Stick
+
+Question:  Smoke : Pollution : : War : ?
+Answer: Destruction
+
+Question:  College : Student :: Hospital : ?
+Answer: Patient
+
+Question:  Physician : Treatment :: Judge : ?
+Answer: Justice
+
+Question:  Part is related to Whole in the same way as Arc is related to:
+Answer: Circle
+
+Question:  Tennis. is related to Court in the same way as Boxing is related to:
+Answer: Ring
+
+Question:  Doctor is related to patient in the same ways Lawyer is related to:
+Answer: Client
+
+Question:  Chef is related to Restaurant in the same way as Druggist is related to:
+Answer: Pharmacy
+
+Question:  'Ophthalmia' is related to 'Eye' in the same way as 'Rickets' is related to:
+Answer: Bone
+
+Question:  Curd : Milk :: Shoe : ?
+Answer: Leather
+
+Question:  Glove : Hand
+Answer: Neck : Collar
+
+Question:  Letter: Word
+Answer: Page : Book
+
+Question:  Silence : Noise
+Answer: Sunrise : Sunset
+
+Question: Some kings are queens. All queens are beautiful. Conclusions: I.	All kings are beautiful. II.	All queens are kings. A. Only I B. Only II C. I and II D. I and II are inappropriate
+Answer: D I and II are inappropriate.
+
+Question: All hill stations have a sunset point. X is a hill station. Conclusions: I.	X has a sun-set point. II.	Places other than hill stations do not have sun-sct points. A. Only I	 B. Only II  C. I and II	D. I and II are inappropriate
+Answer: The answer is A Only I.
+
+Question: All pens arc chalks. All chairs are chalks. Conclusions: 1. Some pens are chairs. II. Some chalks are pens. A. Only I	B. Only II C. I and II	D. I and II are inappropriate
+Answer: The answer is C I and II.
+
+Question: Ramzan is always successful. No fool is always successful. Conclusions: I.	Ramzan is a fool. II.	Ramzan is not a fool. A. Only IB. Only II C. I and II D. I and II are inappropriate
+Answer: The answer is D I and II are inappropriate.
+
+Question: No bat is a ball. No ball is a wicket. Conclusions: I.	No bat is a wicket. II.	All wickets are bats. A. Only I B. Only II C I and II	D. I and II are inappropriate
+Answer: The answer is C I and II.
+
+Question: All flowers are trees. No fruit is a tree. Conclusions: I. No fruit is flower. II. Sonic trees are flowers. A. Only I B. Only II C I and II	 D. I and II are inappropriate
+Answer: The answer is C I and II.
+
+Question: Some desks are caps. No cap is red. Conclusions: I. Some caps are desks. II. No desk is red. A. Only I	B. Only II C. I and II	D. I and II are inappropriate
+Answer: The answer is C I and II.
+
+Question: Some pastries are toffees. All toffees are chocolates. Conclusions: I.	Some chocolates are toffees. II.	Some toffees are not pastries. A. Only I B. Only II C. I and II	D. I and II are inappropriate
+Answer: The answer is C I and II.
+
+Question: All branches are flowers. All flowers are leaves. Conclusions: I.	All branches are leaves. II.	All leaves arc branches. III.	All flowers are branches, IV.	Some leaves are branches. A. Only I and III B. Only I and IV C. Only II and III D. Only II and IV
+Answer:  The answer is A Only I and III.
+
+Question: All aeroplanes are trains. Some trains are chairs. Conclusions: I. Some aeroplanes are chairs. II. Some chairs are aeroplanes. III. Some chairs are trains. IV. Some trains are aeroplanes. A. Only III and IV	B. Only I and II C. Only II and III	D. Ill and IV are inappropriate
+Answer: The answer is C Only II and III.
+
+Question: All politicians are honest. All honest are fair. Conclusions: I. All honest are politicians. II. No honest is politician. III. Some fair are politicians. IV. All fair are politicians. A. Only III	 B. Only IV C. Only I and II	D. Only I and III
+Answer: The answer is C Only I and III.
+
+Question: All windows are rods. Some rods are frames. Conclusion: I. All frames are rods. II. All frames are windows. III. Some windows are frames. IV. No window is a frame. A. Only III and IV	B. Only I and Il C. All follows	 D. None follows
+Answer: The answer is A Only III and IV.
+
+Question: All fruits are vegetables. All pens are vegetables. All vegetables are rain. Conclusions: I. All fruits are rains. II. All pens are rains. Ill. Some rains are vegetables. A. Only I and II	B. Only II and III C. Only I and III	 D. I, II, and III
+Answer: The answer is C Only I and III.
+
+Question: Some pictures are frames. Some frames are idols. All idols are curtains. Conclusions: I. Some curtains are pictures.II. Some curtains are frames. III. Some idols are frames. A. Only I and II B. Only II and C. Only I and III	D. I, II, and III
+Answer: The answer is C Only I and III.
+
+Question: Some hills are rivers. Some rivers are deserts. All deserts are roads. I. Some roads are rivers. II. Some roads are hills.  III. Some deserts are hills. A. Only I and II B. Only I C. Only II and III D. I, II, and III are inappropriate
+Answer: The answer is D I, II, and III are inappropriate. 
+
+Question: A, B, C, D and E are five friends. A is shorter than B but taller than E. C is the tallest. D is shorter than B and taller than A. Who has two persons taller and two persons shorter than him/her?
+Answer: B
+
+Question: If P is taller than Q, R is shorter than P, S is taller than T but shorter than Q, then who among them is the tallest?
+Answer:  P
+
+Question: A, P, R, X, S and Z are sitting in a row. S and Z are in the centre, and A and P are at the ends. R sitting on the left or A. Then who is sitting on the right of P?
+Answer: X
+
+Question: In a March Past, seven person are standing in a row. Q is standing left to R but right to P. O is standing right to N and left to P. Similarly, S is standing right to R and left to T. Find out who is standing in the middle.
+Answer: R
+
+Question: In the Olympic games, the flags of six nations were flown on the masts in the following way: The flag of America was to the left of Pakistan and to the right of the flag of France. Flag of England was on the right of the Pakistan flag but was to the left of the flag or Japan, which was to the left of the flag of China. Find the two flags which are in the centre. A. Pakistan and England	B. America and Pakistan C. Japan and England	D. America and England
+Answer: C. Japan and England
+
+Question: In a cricket season, Pakistan defeated Australia twice, West Indies defeated Pakistan, twice, Australia defeated West Indies twice, Pakistan defeated New Zealand twice, and West Indies defeated New Zealand twice. Which country has lost the greatest number of times? A. Pakistan B. Australia C. New Zealand	 D. West Indies
+Answer: C. New Zealand
+
+Question: A, B, C, D and E are five friends. B is elder to E, but not as tall as C. C is younger to A, and is taller to D and E. A is taller to D, but younger than E. D is elder to A but is shortest in the group. Who among the following is the eldest? A.A	  B. B  C. C	D. None of these
+Answer: D. None of these
+
+Question: A rat runs 20' towards East and turns to right, runs 10' and turns to right, runs 9' and again turns to left, runs 5' and then turns to left, runs 12' and finally turns to left And runs 6'. Now, which direction is the rat facing? A. East	 B. West C. North	D. South
+Answer: A. East
+
+Question: Two ladies and two men are playing cards and are seated at the North, East, South and West of a table. No lady is facing East. Persons sitting opposite to each other are not of the simile sex. One man is facing South. Which directions are the ladies facing? A. East and West	B. South and East  C. North and East	D. North and West
+Answer: B. South and East
+
+Question: There are four towns P, Q, R and T. Q is to the South-west of P, R is to the East of Q and South-east of P, and T is to the North of R in line with QP. In which direction of P is T located? A South-east	B. North   C. North-east	D. East
+Answer: C. North-east
+
+Question: The post office is to the east of the school while my house is to the south of the school. The market is to the north of the post office. If the distance of the market from the post office is equal to the distance of my house from the school, in which direction is the market with respect to my school? A. North	B. East    C. North-cast	D. South-west
+Answer: D. South-west
+
+Question: P, Q, R, S, T, U, V, and W are sitting around a round table in the same order, for a group discussion at equal distances. Their positions are clockwise. If V sits in the north, then what will be the position of S? A. East	 B. South-east  C. South	D. South-west
+Answer: B. South-east
+
+Question: P, Q, R and S are playing a game of carrom. P, R and S, Q are partners. S is to the right of R who is facing west, Then, Q is facing A. North	B. South C. East	 D. West
+Answer : C. East
+
+Question: A colony of smooth strain bacteria is grown on a culture containing an experimental drug that cleaves nucleic acid base sequences wherever adenine is paired with uracil. Which of the following processes will be directly affected? I. Transcription   II. Translation   III. Transformation A. I only    B. I and II only  C. I and III only   D. I, II and III
+Answer: B. I and II only
+
+Question: If Griffith had injected a fifth group of mice with a combination of heat-killed rough strain and heat-killed smooth strain, would the mice have died?  A. No, because the heat-killed rough strain cannot infect mice.  B. No, because the heat-killed smooth strain cannot transform mice cells.  C. Yes, because the heat-killed rough strain is transformed into the smooth strain.   D. Yes, because the mice do not have acquired immunity to pneumococcus bacteria.
+Answer: A. No, because the heat-killed rough strain cannot infect mice.
+
+Question: In which of the following cases will the normal force on a box be the greatest? A. When the box is placed in a stationary elevator B. When the box is placed in an elevator moving upwards at constant velocity   C. When the box is placed in an elevator accelerating downward  D. When the box is placed in an elevator accelerating upward
+Answer: D. When the box is placed in an elevator accelerating upward
