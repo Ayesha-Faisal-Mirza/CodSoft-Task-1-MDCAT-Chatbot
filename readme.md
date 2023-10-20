@@ -1,0 +1,3 @@
+# Project Description:
+
+# This project is a rule-based MDCAT (Medical and Dental College Admission Test) chatbot, developed as part of an internship task. The chatbot is designed to assist students preparing for the MDCAT exam. It offers assistance such as answering common questions that appear in the exam which are related to biology, chemistry, physics, english and logical reasoning. The chatbot runs on a website, providing an accessible and interactive platform for MDCAT exam information and assistance.
